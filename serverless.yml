@@ -1,0 +1,13 @@
+org: epaganon
+app: example-project
+service: example-project
+
+frameworkVersion: '3'
+
+provider:
+  name: aws
+  runtime: python3.8
+
+functions:
+  hello:
+    handler: handler.hello
