@@ -1,6 +1,6 @@
 org: epaganon
 app: example-project
-service: example-project
+service: example-service
 
 frameworkVersion: '3'
 
